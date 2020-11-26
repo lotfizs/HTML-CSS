@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+div#wrapper {
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+    background-color:rgb(251, 235, 235) ;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav a{
+    margin-right: 20px;
+}
+
+section.appel, section.visuals{
+    width: 50%;
+    float: left;
+}
+
+section.visuals{
+    text-align: right;
+}
+
+section.artikelen {
+
+}
+
+img.appel {
+    width: 497px;
+}
+
+img.visual {
+    width: 447px;
+    margin-bottom: 13px;
+}
