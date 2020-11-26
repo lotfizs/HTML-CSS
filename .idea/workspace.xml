@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 2">
+    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 3">
+      <change afterPath="$PROJECT_DIR$/h04/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/elektriciteit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/wilkens_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h04/img" />
       <recent name="$PROJECT_DIR$/h02/img" />
       <recent name="$PROJECT_DIR$/h01" />
     </key>
@@ -71,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605185639934</updated>
       <workItem from="1605185641410" duration="1686000" />
-      <workItem from="1605528544233" duration="4156000" />
+      <workItem from="1605528544233" duration="4406000" />
+      <workItem from="1606126461238" duration="8651000" />
     </task>
     <task id="LOCAL-00001" summary="mijn eerste commit">
       <created>1605186529572</created>
@@ -94,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605533804015</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hoofstuk 2">
+      <created>1605534008400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605534008400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hoofstuk 3">
+      <created>1606299949657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606299949657</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,17 +130,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mijn eerste commit" />
     <MESSAGE value="hoofstuk 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 2" />
+    <MESSAGE value="hoofstuk 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1605533812394">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606299962481">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605533812394" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605534016894" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606299962481" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1605187112874" />
     <state x="602" y="433" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605187090598">
       <screen x="0" y="23" width="1792" height="1028" />
