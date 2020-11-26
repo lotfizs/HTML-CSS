@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 3">
-      <change afterPath="$PROJECT_DIR$/h04/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/img/elektriciteit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/img/wilkens_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
+    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/h04/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <updated>1605185639934</updated>
       <workItem from="1605185641410" duration="1686000" />
       <workItem from="1605528544233" duration="4406000" />
-      <workItem from="1606126461238" duration="8651000" />
+      <workItem from="1606126461238" duration="12404000" />
     </task>
     <task id="LOCAL-00001" summary="mijn eerste commit">
       <created>1605186529572</created>
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606299949657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hoofstuk 4">
+      <created>1606390541530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606390541530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,15 +141,16 @@
     <MESSAGE value="mijn eerste commit" />
     <MESSAGE value="hoofstuk 2" />
     <MESSAGE value="hoofstuk 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 3" />
+    <MESSAGE value="hoofstuk 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606299962481">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606390551241">
+      <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605534016894" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606299962481" />
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1605187112874" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1606390551241" />
     <state x="602" y="433" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605187090598">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
