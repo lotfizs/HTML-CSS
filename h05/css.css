@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
 }
-div#wrapper {
+div#wrapper, footer {
     margin: auto;
     width: 1000px;
     padding: 20px;
@@ -9,6 +9,7 @@ div#wrapper {
 }
 body {
     font-family: Arial, sans-serif;
+    line-height: 24px;
 }
 nav{
     margin-top: 20px;
@@ -39,4 +40,29 @@ img.appel {
 img.visual {
     width: 447px;
     margin-bottom: 13px;
+}
+img.article{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 280px;
+}
+
+article {
+    display: inline-block;
+    width: 30%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px;
+}
+
+footer{
+    background-color:rgb(166,166,166);
+    color: white;
+}
+
+footer a {
+    color: white;
 }
