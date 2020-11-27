@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 5">
-      <change afterPath="$PROJECT_DIR$/h05/login.html" afterDir="false" />
+    <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 6">
+      <change afterPath="$PROJECT_DIR$/h05/login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h05" />
       <recent name="$PROJECT_DIR$/h05/img" />
       <recent name="$PROJECT_DIR$/h04/img" />
       <recent name="$PROJECT_DIR$/h02/img" />
@@ -76,7 +77,7 @@
       <updated>1605185639934</updated>
       <workItem from="1605185641410" duration="1686000" />
       <workItem from="1605528544233" duration="4406000" />
-      <workItem from="1606126461238" duration="19362000" />
+      <workItem from="1606126461238" duration="21761000" />
     </task>
     <task id="LOCAL-00001" summary="mijn eerste commit">
       <created>1605186529572</created>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606401700952</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hoofstuk 6">
+      <created>1606477895370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606477895370</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,20 +180,21 @@
     <MESSAGE value="hoofstuk 3" />
     <MESSAGE value="hoofstuk 4" />
     <MESSAGE value="hoofstuk 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 5" />
+    <MESSAGE value="hoofstuk 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofstuk 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606398015282">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="240" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1606398015282" />
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606401707319">
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606477902725">
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605534016894" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606299962481" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1606395669877" />
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1606401707319" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1606477902725" />
     <state x="602" y="433" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605187090598">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>

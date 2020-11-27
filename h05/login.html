@@ -2,28 +2,66 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Burton Education</title>
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
 </head>
 <body>
-<form action="http://www.savatarian.com/html5/form.php" method="get">
-    <ul>
-        <li>
+<div class="wrapper">
+    <form action="http://www.savatarian.com/html5/form.php" method="get">
+        <div class="form-group">
             <h2>Burton Education</h2>
-        </li>
-        <li>
-            <label for="voornaam"> Voornaam: </label>
-            <input type="text" name="voornaam">
-        </li>
-        <li>
-            <label for="achternaam"> Achternaam: </label>
-            <input type="text" name="achternaam">
-        </li>
-        <li>
-            <input type="submit" name="knop">
-        </li>
-    </ul>
-
-
-
+        </div>
+        <div class="form-group">
+            <label for="voornaam">Voornaam:</label>
+            <input class="input" type="text" name="voornaam" required/>
+        </div>
+        <div class="form-group">
+            <label for="tussenvoegsel">Tussenvoegsel:</label>
+            <input class="input" type="text" name="tussenvoegsel" />
+        </div>
+        <div class="form-group">
+            <label for="achternaam">Achternaam:</label>
+            <input class="input" type="text" name="achternaam" required/>
+        </div>
+        <div class="form-group">
+            <label for="geslacht">Geslacht:</label>
+            <input class="form-groupbtn" type="radio" name="knop" />
+            <label for="man">Man</label>
+            <input class="vrouwradio" type="radio" name="knop" />
+            <label for="vrouw">Vrouw</label>
+        </div>
+        <div class="form-select">
+            <label for="eye-color">Kleur ogen:</label>
+            <select class="input" name="oogkleuren">
+                <option value="Groen">Groen</option>
+                <option value="Blauw">Blauw</option>
+                <option value="Bruin">Bruin</option>
+                <option value="Grijs">Grijs</option>
+                <option value="Overige">Overige</option>
+            </select>
+        </div>
+        <div class="form-date">
+            <label for="geboortedatum">Geboortedatum:</label>
+            <input class="input" type="date" name="dateofbirth" required/>
+        </div>
+        <div class="form-textarea">
+            <label class="form-group" for="omschrijving">Omschrijving:</label>
+            <textarea class="form-omschrijving" name="message" rows="10" cols="30" placeholder="Voer uw bericht in.."></textarea>
+        </div>
+        <div class="form-check">
+            <label for="lekkereten" name="lekkereten">Lekker eten:</label>
+            <input class="box b1" type="checkbox" name="sperciebonen" value="sperciebonen">Sperciebonen<br>
+            <input class="box b2" type="checkbox" name="aardappelen" value="aardappelen">Aardappelen<br>
+            <input class="box b3" type="checkbox" name="hamburger" value="hamburger">Hamburger
+        </div>
+        <div class="buttons">
+            <input class="cancel-btn" type="submit" name="knop" value="Annuleer" />
+            <input class="ok-btn" type="submit" name="knop" value="OK" />
+        </div>
+    </form>
+</div><!--Wrapper-->
+<div class="Copyright">
+    <a href="https://github.com/lotfizs/" target="_blank">Copyright @ 2020, LotfiZS.</a>
+</div>
 </body>
 </html>
