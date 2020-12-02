@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecad8ce1-7429-472c-9782-b5f96df54eac" name="Default Changelist" comment="hoofstuk 7">
-      <change afterPath="$PROJECT_DIR$/h07/img/drums.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h07/img/gitaar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h07/img/saxofoon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h07/img/trompet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h07/img/truemusic-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h07/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/h07/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h07/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1605185641410" duration="1686000" />
       <workItem from="1605528544233" duration="4406000" />
       <workItem from="1606126461238" duration="27181000" />
-      <workItem from="1606812839532" duration="509000" />
+      <workItem from="1606812839532" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="mijn eerste commit">
       <created>1605186529572</created>
@@ -175,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606812995593</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hoofstuk 7">
+      <created>1606813370813</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606813370813</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +216,7 @@
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="240" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1606398015282" />
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606813004951">
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606813375792">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605534016894" />
@@ -221,7 +224,7 @@
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1606395669877" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1606477902725" />
     <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606480668729" />
-    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1033@0.23.1792.1033" timestamp="1606813004951" />
+    <state x="890" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1033@0.23.1792.1033" timestamp="1606813375792" />
     <state x="602" y="433" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605187090598">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
